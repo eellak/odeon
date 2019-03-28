@@ -1,4 +1,4 @@
-# odeon
+# Open Data for European Open INnovation ( ODEON ) Platform
 
 The platform will host 
 a) open/big data freely available by the administration according to quality protocols that will consider the market expectations in terms of content, quantity and quality. 
